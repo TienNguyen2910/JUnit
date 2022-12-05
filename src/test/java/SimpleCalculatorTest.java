@@ -1,10 +1,10 @@
-import org.junit.jupiter.api.BeforeAll;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 class SimpleCalculatorTest {
-   private final SimpleCalculator calculator = new SimpleCalculator();
+    private final SimpleCalculator calculator = new SimpleCalculator();
     @Test
     void addSuccess(){
 
