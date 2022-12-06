@@ -1,0 +1,3 @@
+2022-12-06 11:24:57 WARN  Log4jDemo:8 - Hello. This is warning message
+2022-12-06 11:24:57 INFO  Log4jDemo:9 - Hello. This is infor message
+2022-12-06 11:24:57 ERROR Log4jDemo:10 - Hello. This is error message
